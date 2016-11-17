@@ -1,1 +1,1 @@
-Proyecto para agregar datos a Neo4j desde un archivo csv. 
+Proyecto para agregar datos a Neo4j desde un archivo csv en Java. 
